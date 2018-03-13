@@ -16,6 +16,7 @@ public class Testpacman {
      */
     public static void main(String[] args) {
         System.out.println("kpez<");
+        while(true) {}
     }
     
 }
